@@ -1,0 +1,154 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+#paper{
+  background:black;
+  color:white;
+}
+
+#tan{
+  width:300px;
+  height:300px;
+}
+
+
+#green{
+  width:90px;
+  height:90px;
+}
+
+#y{
+  color:blue;
+  
+}
+
+#z{
+  color:yellow;
+}
+
+
+
+h4{
+  text-align:center;
+}
+p{
+text-align:center;
+}
+h1{
+  text-align:center;
+}
+
+#jam{
+   color:tomato;
+
+}
+#lol{
+  height:200px;
+  width:200px;
+}
+/* #happy{
+  width:500px;
+  height:500px;
+} */
+#lamp{
+  background-color:peru;
+}
+#hat{
+  width:200px;
+  height:200px;
+}
+h2:hover{
+  background-color: red;
+color: white;
+}
+#kite{
+   width:200px;
+   height:200px;
+}
+
+#ant{
+  background-color:peru;
+}
+
+
+#post{
+  height:200px;
+  width:200px;
+}
+#pot{
+  width:500px;
+  height:500px;
+}
+#pop{
+  background-color:blue;
+}
+#pad{
+  background-color:lightblue;
+}
+#did{
+  background-color:aqua;
+}
+#cap{
+  background-color:peru;
+}
+#pin{
+  background-color:skyblue;
+}
+
+
+
+
+@media screen and (max-width:460px) {
+  #happy{
+      width:100%;
+      height:400px;
+  }
+ }
+
+
+ @media screen and (max-width:460px) {
+  #mob{
+      width:%;
+      height:400px;
+  }
+ }
+
